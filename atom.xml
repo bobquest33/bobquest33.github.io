@@ -4,11 +4,11 @@
   <title><![CDATA[Bobquest's Technical  Blog]]></title>
   <link href="http://bobquest33.github.io/atom.xml" rel="self"/>
   <link href="http://bobquest33.github.io/"/>
-  <updated>2013-12-24T04:06:57-05:00</updated>
+  <updated>2013-12-24T04:27:59-05:00</updated>
   <id>http://bobquest33.github.io/</id>
   <author>
     <name><![CDATA[Priyabrata Dash]]></name>
-    
+    <email><![CDATA[bobquest33@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
@@ -19,7 +19,7 @@
     <updated>2013-12-24T04:00:00-05:00</updated>
     <id>http://bobquest33.github.io/blog/2013/12/24/my-first-octopress-blog</id>
     <content type="html"><![CDATA[<p>In my quest for better blogging engines and ways of hacking my way through to create a automated blog.
-I stumbled upon Octopress. The combination of ruby, jekyll ruby and the beauty of commandline makes
+I stumbled upon Octopress. The combination of ruby, jekyll, sinatra  and the beauty of commandline makes
 Octopress a nice way to try at blogging for me. The most important aspect for me to use
 this blog engine is to use my favorite text editor while typing my blog and running
 some cool commandline rake tasks to publish it. Hope I get chance to write more and more
