@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Bobquest's Technical  Blog]]></title>
-  <link href="http://bobquest33.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: octopress | Bobquest's Technical  Blog]]></title>
+  <link href="http://bobquest33.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://bobquest33.github.io/"/>
   <updated>2013-12-24T04:06:57-05:00</updated>
   <id>http://bobquest33.github.io/</id>
@@ -24,15 +24,6 @@ Octopress a nice way to try at blogging for me. The most important aspect for me
 this blog engine is to use my favorite text editor while typing my blog and running
 some cool commandline rake tasks to publish it. Hope I get chance to write more and more
 blogs using Octopress.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Title of the post]]></title>
-    <link href="http://bobquest33.github.io/blog/2013/09/19/title-of-the-post/"/>
-    <updated>2013-09-19T06:45:00-04:00</updated>
-    <id>http://bobquest33.github.io/blog/2013/09/19/title-of-the-post</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
