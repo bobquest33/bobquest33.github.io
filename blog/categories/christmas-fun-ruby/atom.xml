@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: christmas,fun,ruby | Bobquest's Technical  Blog]]></title>
+  <link href="http://bobquest33.github.io/blog/categories/christmas-fun-ruby/atom.xml" rel="self"/>
+  <link href="http://bobquest33.github.io/"/>
+  <updated>2014-01-02T05:26:59-05:00</updated>
+  <id>http://bobquest33.github.io/</id>
+  <author>
+    <name><![CDATA[Priyabrata Dash]]></name>
+    <email><![CDATA[bobquest33@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Christmas Post]]></title>
+    <link href="http://bobquest33.github.io/blog/2013/12/24/christmas-post/"/>
+    <updated>2013-12-24T05:37:00-05:00</updated>
+    <id>http://bobquest33.github.io/blog/2013/12/24/christmas-post</id>
+    <content type="html"><![CDATA[<p>On the eve of Christmas I thought of wtriting a script that can find all the best Christmas jokes and receipies available on the web. It will be fun to automate such a script which I can also use in future as well. This will involve writing a script
+in Ruby, Mechanize, Nokogiri and finding the matches for our search criteria and showing it to the screen.</p>
+
+<p>As a further work we can also use to save the output to a mongo db and if possible show it as a webpage.</p>
+]]></content>
+  </entry>
+  
+</feed>

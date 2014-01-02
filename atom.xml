@@ -4,7 +4,7 @@
   <title><![CDATA[Bobquest's Technical  Blog]]></title>
   <link href="http://bobquest33.github.io/atom.xml" rel="self"/>
   <link href="http://bobquest33.github.io/"/>
-  <updated>2013-12-24T04:27:59-05:00</updated>
+  <updated>2014-01-02T05:26:59-05:00</updated>
   <id>http://bobquest33.github.io/</id>
   <author>
     <name><![CDATA[Priyabrata Dash]]></name>
@@ -12,6 +12,30 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Happy New Year]]></title>
+    <link href="http://bobquest33.github.io/blog/2014/01/02/happy-new-year/"/>
+    <updated>2014-01-02T04:12:00-05:00</updated>
+    <id>http://bobquest33.github.io/blog/2014/01/02/happy-new-year</id>
+    <content type="html"><![CDATA[<p>Happy New year to all the webbies, this year is going to bring more new possibilities and new
+expectations from mobile users and gonna bring the speed of high speed computing and make
+bit coin the currency of web. As far as I am concerned my knowledge seeking quest will continue.
+To learn boundary technologies and be strong in the existing technologies that I know.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Christmas Post]]></title>
+    <link href="http://bobquest33.github.io/blog/2013/12/24/christmas-post/"/>
+    <updated>2013-12-24T05:37:00-05:00</updated>
+    <id>http://bobquest33.github.io/blog/2013/12/24/christmas-post</id>
+    <content type="html"><![CDATA[<p>On the eve of Christmas I thought of wtriting a script that can find all the best Christmas jokes and receipies available on the web. It will be fun to automate such a script which I can also use in future as well. This will involve writing a script
+in Ruby, Mechanize, Nokogiri and finding the matches for our search criteria and showing it to the screen.</p>
+
+<p>As a further work we can also use to save the output to a mongo db and if possible show it as a webpage.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[My first Octopress Blog]]></title>
@@ -24,15 +48,6 @@ Octopress a nice way to try at blogging for me. The most important aspect for me
 this blog engine is to use my favorite text editor while typing my blog and running
 some cool commandline rake tasks to publish it. Hope I get chance to write more and more
 blogs using Octopress.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Title of the post]]></title>
-    <link href="http://bobquest33.github.io/blog/2013/09/19/title-of-the-post/"/>
-    <updated>2013-09-19T06:45:00-04:00</updated>
-    <id>http://bobquest33.github.io/blog/2013/09/19/title-of-the-post</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
