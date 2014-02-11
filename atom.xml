@@ -4,7 +4,7 @@
   <title><![CDATA[Bobquest's Technical  Blog]]></title>
   <link href="http://bobquest33.github.io/atom.xml" rel="self"/>
   <link href="http://bobquest33.github.io/"/>
-  <updated>2014-01-31T16:42:36-05:00</updated>
+  <updated>2014-02-11T13:09:21-05:00</updated>
   <id>http://bobquest33.github.io/</id>
   <author>
     <name><![CDATA[Priyabrata Dash]]></name>
@@ -12,6 +12,31 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Getting mean with mean stack]]></title>
+    <link href="http://bobquest33.github.io/blog/2014/02/11/getting-mean-with-mean-stack/"/>
+    <updated>2014-02-11T09:28:00-05:00</updated>
+    <id>http://bobquest33.github.io/blog/2014/02/11/getting-mean-with-mean-stack</id>
+    <content type="html"><![CDATA[<p>It has been a busy week for me where I had been trying to setup a node js development/test environment where I can test
+my sample applications and learn node js. This environment will also act as a sandbox for me to learn node, mongo db and
+angular js. The whole process of finding a VPS, custom Linux image and an appropriate framework was difficult. The point
+in favour of mean stack was the full set of node js libraries that would have helped me in developing a fully functional
+website. Along with this using yoeman automation tools I am sure, i will be able to automate a large part of the developemnt
+process. Next I need to look into my deployment, process management, scheduling, testing and scaling process. In all this the
+quest form my perfect application is still on.</p>
+
+<p>Tools/Frameworks used so far:
+1. Bitmani Node stack and bitnami cloud hosting (<a href="https://app.bitnamihosting.com/">https://app.bitnamihosting.com/</a>)
+2. Mean stack (refer <a href="http://mean.io">http://mean.io</a>)
+3. git-deploy (Easy way to deploy any code to sandbox/prod environment)
+4. pm2 (A very good cli tool for process management for node js applications <a href="https://github.com/Unitech/pm2">https://github.com/Unitech/pm2</a>)</p>
+
+<p>Still there is a lot of way to go to really making a production ready application.
+As part of my app I am planning to integrate a blog as well so that I can track my development journey
+through out the way.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Learning about startups]]></title>
